@@ -1,0 +1,7 @@
+{
+  "name": "app-krymson-1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
